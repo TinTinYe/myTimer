@@ -13,6 +13,7 @@
 		DC1D88C6238A729300711F72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC1D88C4238A729300711F72 /* Main.storyboard */; };
 		DC1D88C8238A729500711F72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC1D88C7238A729500711F72 /* Assets.xcassets */; };
 		DC1D88CB238A729500711F72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC1D88C9238A729500711F72 /* LaunchScreen.storyboard */; };
+		DC1D88D3238A735400711F72 /* timerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC1D88D2238A735400711F72 /* timerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC1D88C7238A729500711F72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC1D88CA238A729500711F72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC1D88CC238A729500711F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC1D88D2238A735400711F72 /* timerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC1D88BE238A729300711F72 /* AppDelegate.swift */,
 				DC1D88C0238A729300711F72 /* SceneDelegate.swift */,
 				DC1D88C2238A729300711F72 /* ViewController.swift */,
+				DC1D88D2238A735400711F72 /* timerViewController.swift */,
 				DC1D88C4238A729300711F72 /* Main.storyboard */,
 				DC1D88C7238A729500711F72 /* Assets.xcassets */,
 				DC1D88C9238A729500711F72 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC1D88D3238A735400711F72 /* timerViewController.swift in Sources */,
 				DC1D88C3238A729300711F72 /* ViewController.swift in Sources */,
 				DC1D88BF238A729300711F72 /* AppDelegate.swift in Sources */,
 				DC1D88C1238A729300711F72 /* SceneDelegate.swift in Sources */,
